@@ -1,0 +1,86 @@
+{
+    "list":[
+{
+    "id":"1",
+    "item":"Rice",
+    "quantity":"20",
+    "unit":"kg",
+    "department":"Grains",
+    "notes":"Basmathi"
+},
+{
+    "id":"2",
+    "item":"fish",
+    "quantity":"2",
+    "unit":"kg",
+    "department":"fish",
+    "notes":"fresh"
+},
+{
+    "id":"3",
+    "item":"tomato",
+    "quantity":"3",
+    "unit":"kg",
+    "department":"vegg",
+    "notes":"fresh"
+},
+{
+    "id":"4",
+    "item":"sugar",
+    "quantity":"5",
+    "unit":"kg",
+    "department":"ration",
+    "notes":"medium"
+},
+{
+    "id":"5",
+    "item":"banana",
+    "quantity":"2",
+    "unit":"kg",
+    "department":"fruit",
+    "notes":"fresh"
+},
+{
+    "id":"6",
+    "item":"tea",
+    "quantity":"1",
+    "unit":"kg",
+    "department":"ration",
+    "notes":"packed"
+},
+{
+    "id":"7",
+    "item":"Milk",
+    "quantity":"1",
+    "unit":"li",
+    "department":"grocery",
+    "notes":"fresh"
+},
+{
+    "id":"8",
+    "item":"pea",
+    "quantity":"1",
+    "unit":"kg",
+    "department":"vegg",
+    "notes":"fresh"
+},
+{
+    "id":"9",
+    "item":"salt",
+    "quantity":"1",
+    "unit":"pack",
+    "department":"grcery",
+    "notes":"good"
+},
+{
+    "id":"10",
+    "item":"sweets",
+    "quantity":"1",
+    "unit":"pack",
+    "department":"chocolate",
+    "notes":"5star"
+}
+]
+}
+
+
